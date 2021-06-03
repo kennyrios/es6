@@ -1,1 +1,1 @@
-// funcionalidades de ES6
+// funcionalidades de ES6 --
